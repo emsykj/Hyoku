@@ -1,0 +1,8 @@
+telethon==1.40.0
+psutil==5.9.5
+python-dotenv==1.0.0
+requests==2.31.0
+python-dateutil==2.8.2
+aiohttp>=3.9.0
+beautifulsoup4==4.12.2
+speedtest-cli==2.1.3  
